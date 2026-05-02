@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to smilenrjr's Github Page 💻🌐
 
-<!--
-**Smilenrjr/smilenrjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> If you are reading this, then have a great day! 😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+	- popterm-nvim | A Neovim Popup Terminal Plugin
+	- Custom UEFI Bootloader
+	- Kernal for x86_64
+- 🌱 I’m currently learning
+	- Computer Networking
+	- UEFI Development
+	- x86_64 and MIPS Architecture
+	- Neovim Plugin Development
+- 📆 Future Goals
+	- Get Masters Degree
+	- Get a Job
+	- Create Fully Functional Bootloader + Kernal + OS (Ambitious)
+	- (Maybe) Write my own VPN Protocol
+	- Develop and Train my own AI Model
