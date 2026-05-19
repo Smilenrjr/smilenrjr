@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 
 	- popterm-nvim | A Neovim Popup Terminal Plugin
 	- Custom UEFI Bootloader
-	- Kernal for x86_64
+	- Kernel for x86_64
 - 🌱 I’m currently learning
 	- Computer Networking
 	- UEFI Development
