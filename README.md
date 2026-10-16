@@ -10,11 +10,11 @@
  	- DNS + Reverse Proxy + Web Server in C
 
 - 🌱 I’m currently learning
-	- Computer Networking
+	- Low Level Networking & Cybersecurity
+ 	- Real Analysis & Cryptography
 	- UEFI Development
 	- x86_64 Architecture
 	- Neovim Plugin Development
- 	- Low Level Networking & Cybersecurity
   	- RF Engineering 
 
 - 📆 Future Goals
